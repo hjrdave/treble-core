@@ -1,6 +1,6 @@
 import {TrebleGSM} from 'treble-gsm';
 
-export declare namespace TrebleCore{
+export declare namespace ITrebleCore{
 
     export interface Dispatchers{
         update: (action: string, dispatchValue: any, options?: TrebleGSM.DispatcherOptions) => void,
