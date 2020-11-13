@@ -1,6 +1,6 @@
 {
   "name": "treble-core",
-  "version": "0.0.0",
+  "version": "3.0.0",
   "description": "Core module that provides basic functionality for TrebleGSM",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
